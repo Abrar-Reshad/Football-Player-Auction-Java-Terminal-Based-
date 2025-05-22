@@ -14,4 +14,7 @@ This is a terminal-based Java application that simulates a **football player auc
 
 ---
 
+## 🚀 How to Run
 
+1. **Clone the repository:**
+2. run test.java file
