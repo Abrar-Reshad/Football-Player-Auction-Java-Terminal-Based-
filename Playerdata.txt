@@ -1,0 +1,5 @@
+Messi Forward 500
+Neymar Forward 600
+Ozil Midfielder 300
+Di_Maria Midfielder 300
+Thiago_Silva Defender 400
